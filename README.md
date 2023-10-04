@@ -11,7 +11,7 @@ Set of small Python scripts written while I was learning the Python
 
 Набор небольших скриптов Python, написанных, когда я изучал Python.
 
-#### Description of scripts:
+#### Описание скриптов:
 *   dec_to_greek [18.04.2015] - преобразует арабское число (десятичное) в греческое
 *   matrix_screen_animation [08.03.2015] - печатает символы и цифры на экране, как в фильме «Матрица»
 *   matrixes_operations [27.10.2015] - модуль выполнения различных операций над матрицами (будет полезен студентам)
